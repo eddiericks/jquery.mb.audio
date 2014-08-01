@@ -1,3 +1,9 @@
+I'm forking from this project for fun for some thing I'm working on mostly as a personal educational project. 
+Thanks for making this available!
+
+
+*****
+
 An audio library for mobile HTML5 that tries to actually work :-) 
 
 We have really limited ambitions for this library: just play simple audio without dramatically impacting mobile browser performance. Still to reach even this modest goal with a library that works on iOS6+ and Android 4+, we had to resort to several horrible hacks.
